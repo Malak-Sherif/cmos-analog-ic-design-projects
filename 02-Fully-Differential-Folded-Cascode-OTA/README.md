@@ -9,7 +9,7 @@ A fully differential folded-cascode OTA with capacitive feedback, designed using
 | Supply Voltage | 2.5 V | 2.5 V |
 | Closed Loop Gain | 2 V/V | 1.998 V/V |
 | Phase Margin (Diff) | ≥ 70° | 87.5° |
-| Phase Margin (CM) | ≥ 70° | 65.66° |
+| Phase Margin (CM) | - | 65.66° |
 | CMIR Low | ≤ 0 V | -0.15 V |
 | CMIR High | ≥ 1 V | 1.06 V |
 | Output Swing | ≥ 1.2 Vpk-pk | 1.4 Vpk-pk |
