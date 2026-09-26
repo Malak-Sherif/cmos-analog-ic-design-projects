@@ -7,7 +7,6 @@ A sub-1V bandgap reference designed with a self-biased amplifier, startup circui
 | Parameter | Specification | Achieved |
 |-----------|---------------|----------|
 | Output Voltage | 0.8 V | 0.803 V |
-| Temperature Coefficient | < 50 ppm/°C | 20 ppm/°C |
 | Supply Voltage | 1.2 V | 1.2 V |
 | Total Bias Current | < 10 µA | 5.42 µA |
 | Phase Margin | > 60° | 63.46° |
