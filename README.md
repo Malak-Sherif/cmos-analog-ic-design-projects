@@ -32,4 +32,4 @@ A portfolio of analog IC design projects designed in **Cadence Virtuoso** using 
 
 ## Author
 **Malak Sherif Hamdy Metwally**  
-[LinkedIn](www.linkedin.com/in/malak-sherif-ms) · [Email](malak0603@gmail.com)
+[LinkedIn](//www.linkedin.com/in/malak-sherif-ms) · [Email](mailto:malak0603@gmail.com)
