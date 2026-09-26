@@ -31,5 +31,6 @@ A two-stage Miller-compensated OTA designed using the gm/ID methodology in Caden
 
 ---
 
-*Part of the [CMOS Analog IC Design Projects](../) portfolio.*
 *Mini Project 1 of the CMOS Analog IC Design course at the Information Technology Institute (ITI), instructed by Dr. Hesham Omran.*
+*Part of the [CMOS Analog IC Design Projects](../) portfolio.*
+
